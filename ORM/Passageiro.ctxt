@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Passageiro
+comment1.params=
+comment1.target=Passageiro()
+comment2.params=nome\ cpf
+comment2.target=Passageiro(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=id
+comment4.target=void\ setId(int)
+comment5.params=
+comment5.target=java.lang.String\ getNome()
+comment6.params=nome
+comment6.target=void\ setNome(java.lang.String)
+comment7.params=
+comment7.target=java.lang.String\ getCpf()
+comment8.params=cpf
+comment8.target=void\ setCpf(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
